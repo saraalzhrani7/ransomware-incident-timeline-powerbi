@@ -29,7 +29,11 @@ All four pages share a Page Navigator for cross-page navigation and a custom dar
 
 ## Bonus: interactive reveal
 
-Alongside the report, this project includes a small interactive HTML piece (`lock_reveal.html`, plus exported `.mp4`/`.gif`) that presents the Overview page inside a "locked → unlocked → revealed" animation — a playful way to introduce the dashboard.
+Alongside the report, this project includes a small interactive piece that presents the Overview page inside a "locked → unlocked → revealed" animation — a playful way to introduce the dashboard.
+
+![Lock reveal animation](lock_reveal.gif)
+
+▶️ Try it live: **[lock_reveal.html](lock_reveal.html)** — or open it directly at `https://saraalzhrani7.github.io/REPO-NAME/lock_reveal.html` (replace `REPO-NAME` with this repository's name) to click **TRUST ME** yourself.
 
 ## Tools
 
